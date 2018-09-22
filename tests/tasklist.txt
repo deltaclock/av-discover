@@ -1,0 +1,59 @@
+
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0                            0          4 K
+System                           4                            0        240 K
+smss.exe                       244                            0      1.040 K
+csrss.exe                      348                            0      4.008 K
+wininit.exe                    412                            0      3.932 K
+csrss.exe                      420                            1     14.352 K
+winlogon.exe                   464                            1      6.216 K
+services.exe                   504                            0      5.940 K
+lsass.exe                      512                            0     10.792 K
+svchost.exe                    572                            0     10.384 K
+svchost.exe                    604                            0      6.912 K
+dwm.exe                        692                            1     35.436 K
+MsMpEng.exe                    708                            0    115.220 K
+svchost.exe                    776                            0     13.556 K
+svchost.exe                    812                            0     14.768 K
+svchost.exe                    848                            0     29.600 K
+svchost.exe                    884                            0     11.384 K
+svchost.exe                    312                            0     11.464 K
+spoolsv.exe                    992                            0      9.532 K
+svchost.exe                   1032                            0      7.972 K
+nssm.exe                      1048                            0      4.056 K
+svchost.exe                   1076                            0      7.584 K
+sqlservr.exe                  1140                            0    128.712 K
+cmd.exe                       1196                            0      4.912 K
+conhost.exe                   1204                            0      3.220 K
+sqlwriter.exe                 1296                            0      5.932 K
+svchost.exe                   1324                            0     13.300 K
+svchost.exe                   1352                            0     14.064 K
+VGAuthService.exe             1384                            0     10.484 K
+vmtoolsd.exe                  1504                            0     18.692 K
+ManagementAgentHost.exe       1552                            0      9.612 K
+svchost.exe                   1668                            0      9.080 K
+WmiPrvSE.exe                  1228                            0     13.432 K
+w3wp.exe                      2140                            0    281.668 K
+svchost.exe                   2380                            0      8.564 K
+svchost.exe                   2420                            0      4.916 K
+dllhost.exe                   2504                            0     10.836 K
+msdtc.exe                     2788                            0      7.344 K
+taskhostex.exe                2772                            1      6.480 K
+explorer.exe                  1308                            1     67.508 K
+msseces.exe                   3524                            1     14.972 K
+vmtoolsd.exe                  3560                            1     10.904 K
+cmd.exe                       3588                            1      4.732 K
+conhost.exe                   3596                            1      5.348 K
+VEIL.TXT                      1096                            0     77.188 K
+cmd.exe                       2108                            0      2.156 K
+conhost.exe                   4080                            0      3.168 K
+cmd.exe                        564                            0      2.556 K
+NOTNC.LOL                     3828                            0      2.896 K
+cmd.exe                       1364                            0      2.476 K
+timeout.exe                   3856                            1      2.792 K
+timeout.exe                   3224                            0      2.664 K
+tasklist.exe                  3880                            0      5.708 K
+
+

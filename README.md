@@ -31,4 +31,4 @@ Supports both Python2 and 3.
 
 #### Credits
 
-This tool this majorely based on the https://github.com/harleyQu1nn/AggressorScripts project
+This tool this majorly based on the https://github.com/harleyQu1nn/AggressorScripts project
